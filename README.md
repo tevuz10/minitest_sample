@@ -1,4 +1,5 @@
 # MinitestSample
+2015/08/04
 
 This is an example gem for the AIIT lecture.
 
